@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alejandro,I'm studying software engineering at UANL</h1>
 - 📫 How to reach me **alex.basualdo.dh@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
