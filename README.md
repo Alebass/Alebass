@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alejandro,I'm studying software engineering at UANL</h1>
+<h1 align="center">Hi 👋, I'm Alejandro, studying software engineering at UANL</h1>
 - 📫 How to reach me **alex.basualdo.dh@gmail.com**
 
 </p>
